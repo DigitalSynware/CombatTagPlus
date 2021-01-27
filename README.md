@@ -1,4 +1,4 @@
-# CombatTagPlus
+# CombatTagPlus - Folk created for apply bug fixes due to abandoned main project
 
 *CombatTagPlus is the last plugin you'll ever need to stop those dirty combat loggers!*
 
